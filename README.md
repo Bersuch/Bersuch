@@ -5,7 +5,7 @@ I'm a Student at HTWG Konstanz - University of Applied Sciences
 
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working for [uXcrew](https://uxcrew.de/)
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Laravel and Angular
 
 ### Skills 
 <p align="left">
